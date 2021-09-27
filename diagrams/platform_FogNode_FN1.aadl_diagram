@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="d431cd25-0fc8-449b-ac4c-81cc0647be05" manual="true">
+    <element uuid="3677e8b9-0da8-49e9-8d04-1835bcea4c9a" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_containerbased_new_connection</seg>
+      </bo>
+      <bendpoints>
+        <point x="443.0" y="342.0"/>
+        <point x="443.0" y="242.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="8b307e55-6891-4f06-8e16-0489b71eadb5" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_containerbased_new_connection2</seg>
+      </bo>
+    </element>
+    <element uuid="e9ab0183-1732-46cb-96a0-e97a9bc2fcc5" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>display</seg>
+      </bo>
+      <position y="10.0"/>
+    </element>
+    <element uuid="8c7c5bae-476e-4846-bbb7-c1617768808e" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>io</seg>
+      </bo>
+      <position y="360.0"/>
+    </element>
+    <element uuid="7827c2c2-0b9f-44d3-8680-78c61c47423c" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>lan</seg>
+      </bo>
+      <position y="160.0"/>
+    </element>
+    <element uuid="1132b002-24fd-481c-9ebe-7a1b466e6d60" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>network</seg>
+      </bo>
+      <position y="310.0"/>
+    </element>
+    <element uuid="9bba454d-f6da-4622-9342-132cffe59616" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>power</seg>
+      </bo>
+      <position y="410.0"/>
+    </element>
+    <element uuid="8523ca3b-094c-461e-a0e5-d68f1c34eadd" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>tsn_0</seg>
+      </bo>
+      <position y="260.0"/>
+    </element>
+    <element uuid="ff9d99ab-eb60-4215-85f0-3ad4868095da" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>tsn_1</seg>
+      </bo>
+      <position y="210.0"/>
+    </element>
+    <element uuid="14dc923d-2d07-4b26-86b3-88ba56d2f06f" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>tsn_2</seg>
+      </bo>
+      <position y="110.0"/>
+    </element>
+    <element uuid="29398cff-c0ba-4ee1-8708-1989dba8ddcb" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>tsn_3</seg>
+      </bo>
+      <position y="60.0"/>
+    </element>
+    <element uuid="a3ed128f-749a-4570-9556-3fd77c7b6e99" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>wifi</seg>
+      </bo>
+      <position y="460.0"/>
+    </element>
+    <element uuid="7a0eff6e-43f8-473d-8c3b-c27e57f25ef3" manual="true">
+      <element uuid="e479445a-f8a4-4af8-be6f-99abd1feadca" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>display</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="e13c3aa5-0c33-49d2-b42e-05a4ae000a3c" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>io</seg>
+        </bo>
+        <position x="313.0" y="110.0"/>
+      </element>
+      <element uuid="2edb675e-3ee7-408f-a384-d62f58e48f43" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>lan</seg>
+        </bo>
+        <position y="160.0"/>
+      </element>
+      <element uuid="b6d49094-b42f-402e-89fd-9338a76d1e33" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>network</seg>
+        </bo>
+        <position x="275.0" y="260.0"/>
+      </element>
+      <element uuid="16681962-f6c3-4fe2-9e7b-c68d725bf931" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position y="360.0"/>
+      </element>
+      <element uuid="ec98fc18-09bd-4df3-b8bc-a89092a16e93" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_0</seg>
+        </bo>
+        <position y="260.0"/>
+      </element>
+      <element uuid="ba8a85b9-0cc0-4eea-bfaf-69a9677cdb53" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_1</seg>
+        </bo>
+        <position y="210.0"/>
+      </element>
+      <element uuid="1ea95926-93cb-4e77-9f7a-dadec3848477" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_2</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="c721396f-65b3-4f84-b7d4-030f06b40d26" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_3</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="0a9386dd-a8da-4315-acb0-b235d2df058e" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>wifi</seg>
+        </bo>
+        <position y="310.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>foghardwareplatform</seg>
+      </bo>
+      <position x="76.0" y="38.0"/>
+      <size width="345.0" height="410.0"/>
+    </element>
+    <element uuid="bc35dff9-6f9a-467c-9d7b-7b0a0dea2d19" manual="true">
+      <element uuid="57404831-fa79-4f55-bd13-be08c94e9143" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>xcn_eten</seg>
+        </bo>
+      </element>
+      <element uuid="a1a15e50-1231-4f8c-a95e-4e6afe992b36" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>xcn_ioaccess</seg>
+        </bo>
+      </element>
+      <element uuid="18bb4664-69f1-471c-9e36-7c79a1f68b49" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>io</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="93f34679-0ee8-4a3d-9536-7948de600881" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>network</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="fd99fd9d-7e92-4df0-b343-55ec3c152b39" manual="true">
+        <element uuid="cfffeabc-4864-4ac4-a2f5-3fe92033dfec" manual="true" dockArea="left">
+          <bo>
+            <seg>feature</seg>
+            <seg>cache_partitions</seg>
+          </bo>
+          <position y="110.0"/>
+        </element>
+        <element uuid="054b5b2b-9273-4bf4-98a5-fd6e08524360" manual="true" dockArea="left">
+          <bo>
+            <seg>feature</seg>
+            <seg>io</seg>
+          </bo>
+          <position y="10.0"/>
+        </element>
+        <element uuid="6f771018-3583-4ee8-b0b8-b69a51cd140f" manual="true" dockArea="left">
+          <bo>
+            <seg>feature</seg>
+            <seg>network</seg>
+          </bo>
+          <position y="60.0"/>
+        </element>
+        <element uuid="ac96a054-7602-4574-aa2f-175e4e74d031" manual="true">
+          <bo>
+            <seg>tag</seg>
+            <seg>sc_type</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>hypervisor</seg>
+        </bo>
+        <position x="77.0" y="60.0"/>
+        <size width="420.0" height="160.0"/>
+      </element>
+      <element uuid="f4a39d84-10b8-4b6f-9a3d-b0cae723dd58" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>fogsoftwareplatform</seg>
+      </bo>
+      <position x="441.0" y="138.0"/>
+      <size width="497.0" height="250.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>fognode.fn1</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="938.0" height="510.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>platform::fognode.fn1</seg>
+    </context>
+  </config>
+</diagram:Diagram>

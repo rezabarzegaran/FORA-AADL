@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="071d8418-4e06-4a47-8f04-b59a1ced566c" manual="true">
+    <element uuid="2220b5b6-df61-4df7-b7ba-e66a2a4473e9" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>command</seg>
+      </bo>
+      <position y="160.0"/>
+    </element>
+    <element uuid="49ff866f-1b9e-43f9-af84-7a11b4a91944" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>hmi</seg>
+      </bo>
+      <position y="60.0"/>
+    </element>
+    <element uuid="2e8bca3c-e2be-4c81-b298-4672d0cf2efb" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>sinkpower</seg>
+      </bo>
+      <position y="110.0"/>
+    </element>
+    <element uuid="6e944aaf-0624-4656-a961-9fe6346a395b" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>sourcepower</seg>
+      </bo>
+      <position y="10.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>drive</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="296.0" height="210.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>baseline::drive</seg>
+    </context>
+  </config>
+</diagram:Diagram>

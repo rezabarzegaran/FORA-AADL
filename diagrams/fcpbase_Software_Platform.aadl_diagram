@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="e5230d3b-5cd7-4d05-bc93-873f617add53" manual="true" background="#ffe5cc">
+    <element uuid="47fe0e04-8428-4357-a3e2-39ef6f52cc29" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>interface</seg>
+      </bo>
+      <position x="248.0" y="575.0"/>
+    </element>
+    <element uuid="95cd1543-f9b4-464c-87e2-0eede081b611" manual="true">
+      <element uuid="7b105d25-1a16-492b-a099-fead8acf7149" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>xcn_2</seg>
+        </bo>
+        <bendpoints>
+          <point x="496.0" y="406.0"/>
+          <point x="386.0" y="406.0"/>
+          <point x="387.0" y="381.0"/>
+        </bendpoints>
+      </element>
+      <element uuid="2cc6c9c0-8b1b-4ea6-9b54-4ae578c6c5ef" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>xcn_3</seg>
+        </bo>
+      </element>
+      <element uuid="488dcebe-8143-4341-935b-2a12674ea9d1" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>xcn_4</seg>
+        </bo>
+        <bendpoints>
+          <point x="322.0" y="302.0"/>
+          <point x="246.0" y="302.0"/>
+        </bendpoints>
+      </element>
+      <element uuid="647934f3-d7fa-477e-b27d-b45c1a81f3dc" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>xcn_5</seg>
+        </bo>
+      </element>
+      <element uuid="4cfd4185-8791-4b4c-9c13-304f7c71ae3c" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>xcn_eten</seg>
+        </bo>
+        <bendpoints>
+          <point x="436.0" y="551.0"/>
+        </bendpoints>
+      </element>
+      <element uuid="20c1b9e1-9536-45d6-b93e-874b6cff8453" manual="true" dockArea="bottom">
+        <bo>
+          <seg>feature</seg>
+          <seg>interface</seg>
+        </bo>
+        <position x="230.0" y="507.0"/>
+      </element>
+      <element uuid="0e70d337-8b42-416f-86fb-0448590d1f94" manual="true">
+        <element uuid="0dc968c7-3f1d-4842-9fb7-bcfd0c080efd" manual="true" dockArea="bottom">
+          <bo>
+            <seg>feature</seg>
+            <seg>interface</seg>
+          </bo>
+          <position x="300.0" y="86.0"/>
+        </element>
+        <element uuid="9c95fcf9-af81-4713-9b44-50ec93672c53" manual="true" dockArea="top">
+          <bo>
+            <seg>feature</seg>
+            <seg>link</seg>
+          </bo>
+          <position x="389.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>partition0</seg>
+        </bo>
+        <position x="24.0" y="380.0"/>
+        <size width="517.0" height="110.0"/>
+      </element>
+      <element uuid="a0c33362-aae5-41c5-85db-4585724efe93" manual="true">
+        <element uuid="3948e348-dd42-4899-801e-9adbebf8e9a4" manual="true" dockArea="bottom">
+          <bo>
+            <seg>feature</seg>
+            <seg>link</seg>
+          </bo>
+          <position x="36.0" y="187.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>partition1</seg>
+        </bo>
+        <position x="24.0" y="40.0"/>
+        <size width="147.0" height="211.0"/>
+      </element>
+      <element uuid="0611eeac-02fb-4435-acd6-18bf98c04c19" manual="true">
+        <element uuid="d77b82d6-729d-43a6-8c5d-14212d4fa0b9" manual="true" dockArea="bottom">
+          <bo>
+            <seg>feature</seg>
+            <seg>link</seg>
+          </bo>
+          <position x="30.0" y="187.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>partition2</seg>
+        </bo>
+        <position x="210.0" y="40.0"/>
+        <size width="151.0" height="211.0"/>
+      </element>
+      <element uuid="2f80dd8a-2741-472e-8c05-db6a7ed86eaf" manual="true">
+        <element uuid="cbb28e69-79fe-459a-96a4-ad3812aeedff" manual="true" dockArea="bottom">
+          <bo>
+            <seg>feature</seg>
+            <seg>link</seg>
+          </bo>
+          <position x="50.0" y="187.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>partition3</seg>
+        </bo>
+        <position x="390.0" y="40.0"/>
+        <size width="151.0" height="211.0"/>
+      </element>
+      <element uuid="d9d4d624-c79a-401b-bdeb-af054949e3f7" manual="true" background="#ffffcc">
+        <element uuid="3abb8f06-b085-43cc-9c31-eabc8f9d41c1" manual="true" dockArea="bottom">
+          <bo>
+            <seg>feature</seg>
+            <seg>link_0</seg>
+          </bo>
+          <position x="266.0" y="27.0"/>
+        </element>
+        <element uuid="e425a930-d29d-4686-803b-83f847d9b3b9" manual="true" dockArea="top">
+          <bo>
+            <seg>feature</seg>
+            <seg>link_1</seg>
+          </bo>
+          <position x="26.0"/>
+        </element>
+        <element uuid="fda94191-6b18-42c6-8116-124306790711" manual="true" dockArea="top">
+          <bo>
+            <seg>feature</seg>
+            <seg>link_2</seg>
+          </bo>
+          <position x="126.0"/>
+        </element>
+        <element uuid="d938152c-23e4-47b7-9527-33b982e30f34" manual="true" dockArea="top">
+          <bo>
+            <seg>feature</seg>
+            <seg>link_3</seg>
+          </bo>
+          <position x="406.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>virtuallink</seg>
+        </bo>
+        <position x="24.0" y="290.0"/>
+        <size width="517.0" height="51.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>hypervisor</seg>
+      </bo>
+      <position x="18.0" y="28.0"/>
+      <size width="561.0" height="531.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>software.platform</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="599.0" height="599.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>fcpbase::software.platform</seg>
+    </context>
+  </config>
+</diagram:Diagram>

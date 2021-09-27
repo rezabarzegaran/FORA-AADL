@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="bb3abaf1-822f-4f9e-b06a-67e00c6b25b8" manual="true" background="#ffe5cc" primaryLabelVisible="false">
+    <element uuid="14ea6ff3-de47-4741-89e2-4a231ebfa072" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>link</seg>
+      </bo>
+      <position x="268.0" y="575.0"/>
+    </element>
+    <element uuid="ef450375-749b-4a65-b0c1-dedba923e6bd" manual="true">
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>applications</seg>
+      </bo>
+      <position x="18.0" y="28.0"/>
+      <size width="551.0" height="240.0"/>
+    </element>
+    <element uuid="5386bb6c-47e4-463c-b8f2-8e735034393c" manual="true">
+      <element uuid="133a9f13-18ca-4d92-8fc4-1136e8bdb7fe" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>appservices</seg>
+        </bo>
+        <position x="20.0" y="140.0"/>
+        <size width="501.0" height="71.0"/>
+      </element>
+      <element uuid="dd6f38ca-b38e-40f3-9c6b-70e8431220aa" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>appsupport</seg>
+        </bo>
+        <position x="20.0" y="50.0"/>
+        <size width="501.0" height="75.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>rtos</seg>
+      </bo>
+      <position x="18.0" y="298.0"/>
+      <size width="551.0" height="250.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>partition.communication</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="599.0" height="599.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>fcpbase::partition.communication</seg>
+    </context>
+  </config>
+</diagram:Diagram>

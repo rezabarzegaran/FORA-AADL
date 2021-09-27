@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="268fc80e-acc3-4bc4-a0cb-3b4223627965" manual="true" background="#ffe5cc">
+    <element uuid="6b801578-9f89-400d-9459-317ecc32eaf4" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>pci</seg>
+      </bo>
+      <position x="88.0" y="435.0"/>
+    </element>
+    <element uuid="afdef9db-6f22-4ad9-b4e3-0edaabf155cc" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>power</seg>
+      </bo>
+      <position x="268.0" y="435.0"/>
+    </element>
+    <element uuid="c4028526-cac0-4e18-9ec6-7030e1689b70" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>profibus</seg>
+      </bo>
+      <position x="468.0" y="435.0"/>
+    </element>
+    <element uuid="50539fce-c942-4a8e-8ce4-982e43536cc6" manual="true">
+      <element uuid="4fbdf667-f964-47c2-86b0-660d2e52533c" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>connection2</seg>
+        </bo>
+        <bendpoints>
+          <point x="328.0" y="412.0"/>
+          <point x="328.0" y="341.0"/>
+        </bendpoints>
+      </element>
+      <element uuid="c72660dd-49be-43c0-b227-f4b6650ba919" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>connection3</seg>
+        </bo>
+        <bendpoints>
+          <point x="289.0" y="382.0"/>
+          <point x="289.0" y="341.0"/>
+        </bendpoints>
+      </element>
+      <element uuid="2166a548-6d36-4243-af9f-239bf3ffc3f1" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>connection4</seg>
+        </bo>
+        <bendpoints>
+          <point x="220.0" y="297.0"/>
+          <point x="297.0" y="297.0"/>
+          <point x="297.0" y="322.0"/>
+        </bendpoints>
+      </element>
+      <element uuid="0ceac308-0d7e-4f9f-b0d3-3f8a863b838f" manual="true">
+        <bo>
+          <seg>connection</seg>
+          <seg>connection5</seg>
+        </bo>
+        <bendpoints>
+          <point x="330.0" y="322.0"/>
+          <point x="330.0" y="302.0"/>
+          <point x="349.0" y="302.0"/>
+          <point x="422.0" y="302.0"/>
+        </bendpoints>
+      </element>
+      <element uuid="f807da9e-e99c-4ae9-ab08-62547a3fdd7b" manual="true">
+        <element uuid="3e5b6837-dd19-4472-baf8-38cdaf7b03d1" manual="true" dockArea="right">
+          <bo>
+            <seg>feature</seg>
+            <seg>pci</seg>
+          </bo>
+          <position x="114.0" y="12.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>cpu</seg>
+        </bo>
+        <position x="19.0" y="38.0"/>
+        <size width="151.0" height="60.0"/>
+      </element>
+      <element uuid="19a3b364-1e0d-4f04-996c-3932488134f6" manual="true">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>pcibus</seg>
+        </bo>
+        <position x="229.0" y="84.0"/>
+        <size width="105.0" height="35.0"/>
+      </element>
+      <element uuid="55a759da-53e6-4dd9-9dac-11a7be284d9e" manual="true">
+        <element uuid="a900777f-db68-4576-af4b-03169a70bfe4" manual="true" dockArea="right">
+          <bo>
+            <seg>feature</seg>
+            <seg>pci</seg>
+          </bo>
+          <position x="119.0" y="2.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>ram</seg>
+        </bo>
+        <position x="19.0" y="118.0"/>
+        <size width="156.0" height="60.0"/>
+      </element>
+      <element uuid="f40fbe1b-cfa3-4841-8510-ff0e7be536eb" manual="true">
+        <element uuid="37ab1b94-6e8a-4470-875d-70fbc3470d9e" manual="true" dockArea="left">
+          <bo>
+            <seg>feature</seg>
+            <seg>pci</seg>
+          </bo>
+          <position y="20.0"/>
+        </element>
+        <element uuid="69f2c1cf-8da3-4e0f-b149-cea9f4e40672" manual="true" dockArea="bottom">
+          <bo>
+            <seg>feature</seg>
+            <seg>rj45</seg>
+          </bo>
+          <position x="59.0" y="47.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>swtitch</seg>
+        </bo>
+        <position x="410.0" y="130.0"/>
+        <size width="128.0" height="71.0"/>
+      </element>
+      <element uuid="b0b4606c-663a-40c4-8675-378bc3b6594b" manual="true">
+        <element uuid="56ef9da9-565d-402c-88da-7bcc827e50bd" manual="true" dockArea="right">
+          <bo>
+            <seg>feature</seg>
+            <seg>expci</seg>
+          </bo>
+          <position x="75.0" y="22.0"/>
+        </element>
+        <element uuid="ae03cee3-d4ac-4e84-bdcf-9f4eb569d9b4" manual="true" dockArea="left">
+          <bo>
+            <seg>feature</seg>
+            <seg>inpci</seg>
+          </bo>
+          <position y="22.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>terminal</seg>
+        </bo>
+        <position x="410.0" y="38.0"/>
+        <size width="128.0" height="73.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>hardware</seg>
+      </bo>
+      <position x="19.0" y="218.0"/>
+      <size width="550.0" height="211.0"/>
+    </element>
+    <element uuid="95052cf7-71bc-48e8-89cf-a1859924529f" manual="true">
+      <element uuid="fa2b86b5-3cac-42ac-9546-2f89f7e4d83c" manual="true">
+        <element uuid="942554cb-784f-4d4e-ad45-d2d95fca1343" manual="true">
+          <bo>
+            <seg>subcomponent</seg>
+            <seg>communicationapp</seg>
+          </bo>
+          <position x="167.0" y="40.0"/>
+          <size width="181.0" height="35.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>os</seg>
+        </bo>
+        <position x="12.0" y="30.0"/>
+        <size width="518.0" height="111.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>software</seg>
+      </bo>
+      <position x="19.0" y="38.0"/>
+      <size width="550.0" height="161.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>communicationmodule.i</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="589.0" height="459.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>baseline::communicationmodule.i</seg>
+    </context>
+  </config>
+</diagram:Diagram>

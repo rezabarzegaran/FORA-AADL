@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="d0560d11-d4d0-46e6-be62-00dfcbd4e51a" manual="true" background="#ffe5cc">
+    <element uuid="52e930de-d813-460e-b2d0-0e3c8771a035" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_hardwareplatform_new_connection4</seg>
+      </bo>
+      <bendpoints>
+        <point x="356.0" y="406.0"/>
+        <point x="356.0" y="455.0"/>
+        <point x="356.0" y="494.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="e115c6de-2dac-4b2e-9a58-902ed38446a8" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_hardwareplatform_new_connection5</seg>
+      </bo>
+    </element>
+    <element uuid="815dbe43-6472-4fd8-8081-b2e6fd513a3c" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>xcn_ioaccess</seg>
+      </bo>
+      <bendpoints>
+        <point x="166.0" y="388.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="aa3fd8af-3ea7-4348-9246-414e58ec9e51" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>xcn_network</seg>
+      </bo>
+    </element>
+    <element uuid="284517d4-913f-4179-ba50-de62aa97ee5b" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>xcn_pci_cpu</seg>
+      </bo>
+      <bendpoints>
+        <point x="155.0" y="221.0"/>
+        <point x="242.0" y="221.0"/>
+        <point x="251.0" y="251.0"/>
+        <point x="250.0" y="346.0"/>
+        <point x="250.0" y="372.0"/>
+        <point x="250.0" y="388.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="87faa4ae-b19d-45c3-824c-809d89efd294" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>xcn_pci_ram</seg>
+      </bo>
+      <bendpoints>
+        <point x="258.0" y="518.0"/>
+        <point x="258.0" y="407.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="a72e14c6-d81b-42c6-8ecb-4243b40a07ce" manual="true">
+      <element uuid="ce6ed666-e72b-498d-85b2-772581971a28" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>xcn_power_cpu</seg>
+      </bo>
+      <bendpoints>
+        <point x="247.0" y="92.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="292b8f19-53d5-4492-b6f0-ccabf1f90eaa" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>xcn_tsn_0</seg>
+      </bo>
+      <bendpoints>
+        <point x="528.0" y="354.0"/>
+        <point x="576.0" y="354.0"/>
+        <point x="576.0" y="311.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="278c03d0-a4a0-4add-872e-ba5b0d0c14ed" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>xcn_tsn_pci</seg>
+      </bo>
+      <bendpoints>
+        <point x="332.0" y="294.0"/>
+        <point x="332.0" y="356.0"/>
+        <point x="332.0" y="388.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="19b93295-c7fb-43e0-b500-adfb6d69a073" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>xcn_tsn_pow</seg>
+      </bo>
+      <bendpoints>
+        <point x="324.0" y="204.0"/>
+        <point x="324.0" y="121.0"/>
+        <point x="462.0" y="121.0"/>
+        <point x="591.0" y="121.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="9d9f0ad8-ac2d-4bb4-8be6-84ade93b2311" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>interface</seg>
+      </bo>
+      <position x="211.0" y="575.0"/>
+    </element>
+    <element uuid="8fff7843-7d18-404f-904b-a709bef75923" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>io</seg>
+      </bo>
+      <position x="567.0" y="476.0"/>
+    </element>
+    <element uuid="af3f90cf-56d5-4f3a-8493-c85b2474cb6b" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>power</seg>
+      </bo>
+      <position x="540.0" y="48.0"/>
+    </element>
+    <element uuid="efd42607-2088-46b8-945f-f15822021aa1" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>tsn_0</seg>
+      </bo>
+      <position x="541.0" y="267.0"/>
+    </element>
+    <element uuid="ea45769c-51ef-4329-8818-468b551a4971" manual="true">
+      <element uuid="0284a4f0-d247-4ad4-8d3f-322150f7bb8d" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>io</seg>
+        </bo>
+        <position x="127.0" y="37.0"/>
+      </element>
+      <element uuid="281697ab-5f88-47c9-8bc4-6e86f7630efe" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>pci</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>a2d</seg>
+      </bo>
+      <position x="383.0" y="441.0"/>
+      <size width="159.0" height="110.0"/>
+    </element>
+    <element uuid="6cc7c7d0-25b1-4e03-bfe9-bb12963ea785" manual="true">
+      <element uuid="cf0ef2c6-03fe-4f12-89bf-d6241a35e320" manual="true" dockArea="bottom">
+        <bo>
+          <seg>feature</seg>
+          <seg>pci</seg>
+        </bo>
+        <position x="70.0" y="86.0"/>
+      </element>
+      <element uuid="441f4147-0a6b-4e42-8685-b663f068a48a" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position x="113.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>cpu</seg>
+      </bo>
+      <position x="28.0" y="68.0"/>
+      <size width="171.0" height="110.0"/>
+    </element>
+    <element uuid="d98c8141-ad99-4a8e-8bea-a71774f20581" manual="true">
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>pci</seg>
+      </bo>
+      <position x="58.0" y="368.0"/>
+      <size width="476.0" height="35.0"/>
+    </element>
+    <element uuid="f65cfe94-2df5-4b9f-b0ea-b69dc140da90" manual="true">
+      <element uuid="760d084a-8209-4a1c-afb0-db1852506043" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>pci</seg>
+        </bo>
+        <position x="147.0" y="8.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>ram</seg>
+      </bo>
+      <position x="28.0" y="466.0"/>
+      <size width="184.0" height="60.0"/>
+    </element>
+    <element uuid="dd3d5466-3aaf-4c14-954c-41a4d3d00196" manual="true">
+      <element uuid="5306eb07-1e8a-4e2b-84f7-fb86ba8f289a" manual="true" dockArea="bottom">
+        <bo>
+          <seg>feature</seg>
+          <seg>pci</seg>
+        </bo>
+        <position x="86.0" y="36.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>storage</seg>
+      </bo>
+      <position x="22.0" y="247.0"/>
+      <size width="184.0" height="60.0"/>
+    </element>
+    <element uuid="7a429dbb-b763-4bf9-bc88-f89359c2eb8c" manual="true">
+      <element uuid="417c430c-2233-4dbd-93c2-7766b84352c2" manual="true" dockArea="bottom">
+        <bo>
+          <seg>feature</seg>
+          <seg>enet_0</seg>
+        </bo>
+        <position x="102.0" y="164.0"/>
+      </element>
+      <element uuid="86e27d23-fb81-4003-92aa-d6be5ad3d2d3" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>pci</seg>
+        </bo>
+        <position y="122.0"/>
+      </element>
+      <element uuid="668db8da-6688-4b2c-96a5-d149b6376198" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position y="32.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>tsncard</seg>
+      </bo>
+      <position x="346.0" y="128.0"/>
+      <size width="196.0" height="188.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>hardware.i</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="599.0" height="599.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>fcpbase::hardware.i</seg>
+    </context>
+  </config>
+</diagram:Diagram>

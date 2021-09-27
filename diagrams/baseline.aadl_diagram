@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="a4b71211-d173-4e02-aef6-3c80a2047d53" manual="true">
+    <element uuid="86be38a6-aced-4c35-9a32-8fc7bc57d836" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>communicationapp</seg>
+      </bo>
+      <position x="300.0" y="423.0"/>
+      <size width="186.0" height="35.0"/>
+    </element>
+    <element uuid="eebe2858-ae6a-44a9-bbc7-45988691d3a9" manual="true">
+      <element uuid="2a375c8e-53e0-47f2-bb8d-0c2cca7b7b6b" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="296.0" y="452.5"/>
+          <point x="308.0" y="452.5"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>communicationapp.i</seg>
+      </bo>
+      <position x="85.0" y="423.0"/>
+      <size width="195.0" height="35.0"/>
+    </element>
+    <element uuid="3a8f0f67-410d-4236-b422-d1e5efab400a" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>communicationmodlue</seg>
+      </bo>
+      <position x="323.0" y="478.0"/>
+      <size width="209.0" height="35.0"/>
+    </element>
+    <element uuid="babdfbff-58f2-42f4-a47d-d160521c802b" manual="true">
+      <element uuid="d10d983e-6721-4325-819b-ca871dacfd76" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="319.0" y="507.5"/>
+          <point x="331.0" y="507.5"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>communicationmodlue.i</seg>
+      </bo>
+      <position x="85.0" y="478.0"/>
+      <size width="218.0" height="35.0"/>
+    </element>
+    <element uuid="b857d961-21f9-4de0-b4fd-1579a9766986" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>controlapp</seg>
+      </bo>
+      <position x="409.0" y="148.0"/>
+      <size width="132.0" height="35.0"/>
+    </element>
+    <element uuid="6567048d-8242-4e75-80fb-b826644ca4ce" manual="true">
+      <element uuid="f189f2b6-2426-4e79-b4c2-0343bdedd51e" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="405.0" y="177.5"/>
+          <point x="417.0" y="177.5"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>controlapp.i</seg>
+      </bo>
+      <position x="250.0" y="148.0"/>
+      <size width="139.0" height="35.0"/>
+    </element>
+    <element uuid="5e463ed6-325f-4560-9c75-f520a7281381" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>controlmodule</seg>
+      </bo>
+      <position x="265.0" y="313.0"/>
+      <size width="152.0" height="35.0"/>
+    </element>
+    <element uuid="9f26af8c-c2de-4dae-ad0c-44bd2530beb8" manual="true">
+      <element uuid="a76a21f8-1da1-4a3b-ad2f-e8faf5d60176" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="261.0" y="342.5"/>
+          <point x="273.0" y="342.5"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>controlmodule.i</seg>
+      </bo>
+      <position x="85.0" y="313.0"/>
+      <size width="160.0" height="35.0"/>
+    </element>
+    <element uuid="beb5d578-92a3-42bc-abd3-f16c839fd8b1" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>electricdrive</seg>
+      </bo>
+      <position x="312.0" y="539.0"/>
+      <size width="135.0" height="35.0"/>
+    </element>
+    <element uuid="7cc618e5-6c5a-41d8-b051-b75c2b3b6e74" manual="true">
+      <element uuid="a9f7baf4-e411-4e51-af75-1b088dc58b20" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="308.0" y="562.5"/>
+          <point x="320.0" y="562.5"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>electricdrive.baseline</seg>
+      </bo>
+      <position x="87.0" y="533.0"/>
+      <size width="205.0" height="35.0"/>
+    </element>
+    <element uuid="fd0bf843-0c65-4199-9349-a02810c12228" manual="true">
+      <element uuid="4cedb1f7-d7c5-4cf8-a6c8-e78886b23bce" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="308.0" y="617.5"/>
+          <point x="314.0" y="617.5"/>
+          <point x="314.0" y="574.1666666666666"/>
+          <point x="320.0" y="574.1666666666666"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>electricdrive.software</seg>
+      </bo>
+      <position x="85.0" y="588.0"/>
+      <size width="207.0" height="35.0"/>
+    </element>
+    <element uuid="cb80bd2c-348f-4f53-8359-2d91768c46f7" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>hmi</seg>
+      </bo>
+      <position x="174.0" y="38.0"/>
+      <size width="84.0" height="35.0"/>
+    </element>
+    <element uuid="5979587a-6446-4897-82b4-1c8edc398e8a" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>io</seg>
+      </bo>
+      <position x="85.0" y="38.0"/>
+      <size width="69.0" height="35.0"/>
+    </element>
+    <element uuid="985198cf-ed22-4968-ae76-e2d4da4cb0d0" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>operationapp</seg>
+      </bo>
+      <position x="259.0" y="203.0"/>
+      <size width="147.0" height="35.0"/>
+    </element>
+    <element uuid="be6227b9-6e1b-4300-935d-37ddfb9058c4" manual="true">
+      <element uuid="11bf3440-d70e-41cc-99cb-251216e3365e" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="255.0" y="232.5"/>
+          <point x="267.0" y="232.5"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>operationapp.i</seg>
+      </bo>
+      <position x="85.0" y="203.0"/>
+      <size width="154.0" height="35.0"/>
+    </element>
+    <element uuid="e1d02965-e96e-4582-9a98-d76bb9ca6949" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>operationmodule</seg>
+      </bo>
+      <position x="283.0" y="368.0"/>
+      <size width="168.0" height="35.0"/>
+    </element>
+    <element uuid="bed59ba4-aa27-4353-a522-8669f97ba752" manual="true">
+      <element uuid="030f61d0-00bf-4022-9667-9ae07811ab74" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="279.0" y="397.5"/>
+          <point x="291.0" y="397.5"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>operationmodule.i</seg>
+      </bo>
+      <position x="85.0" y="368.0"/>
+      <size width="178.0" height="35.0"/>
+    </element>
+    <element uuid="d62caf83-45f8-4f35-8faf-e9b77c6e22fd" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>pcibus</seg>
+      </bo>
+      <position x="495.0" y="38.0"/>
+      <size width="102.0" height="35.0"/>
+    </element>
+    <element uuid="a95fb0be-1871-4771-982d-306f867fced8" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>powermodule</seg>
+      </bo>
+      <position x="85.0" y="148.0"/>
+      <size width="145.0" height="35.0"/>
+    </element>
+    <element uuid="355b5ca7-4bd9-4744-a3b6-26e1fcec8204" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>powersupply</seg>
+      </bo>
+      <position x="269.0" y="258.0"/>
+      <size width="138.0" height="35.0"/>
+    </element>
+    <element uuid="951ab10c-87fa-4b52-ab23-edf33e76ed18" manual="true">
+      <element uuid="1d313ec6-ed0b-4c4a-9c47-29714ad2e930" manual="true">
+        <bo>
+          <seg>realization</seg>
+        </bo>
+        <bendpoints>
+          <point x="265.0" y="287.5"/>
+          <point x="277.0" y="287.5"/>
+        </bendpoints>
+      </element>
+      <bo>
+        <seg>classifier</seg>
+        <seg>powersupply.v24</seg>
+      </bo>
+      <position x="85.0" y="258.0"/>
+      <size width="164.0" height="35.0"/>
+    </element>
+    <element uuid="82ff029d-3d25-4c68-a2e7-ec10feb4dbfe" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>profinet</seg>
+      </bo>
+      <position x="214.0" y="93.0"/>
+      <size width="121.0" height="35.0"/>
+    </element>
+    <element uuid="1b20d3e2-8507-4418-a615-949bf2fa0988" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>ram</seg>
+      </bo>
+      <position x="385.0" y="38.0"/>
+      <size width="90.0" height="35.0"/>
+    </element>
+    <element uuid="644e7a3c-30e8-4dfe-aca6-ad737bee5143" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>realtimeos</seg>
+      </bo>
+      <position x="504.0" y="93.0"/>
+      <size width="132.0" height="35.0"/>
+    </element>
+    <element uuid="2f235c0f-d421-4c1b-a17a-7a45d306be84" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>rj45</seg>
+      </bo>
+      <position x="278.0" y="38.0"/>
+      <size width="87.0" height="35.0"/>
+    </element>
+    <element uuid="6febccb0-82e1-485a-bf15-e043e3295047" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>singlecore</seg>
+      </bo>
+      <position x="355.0" y="93.0"/>
+      <size width="129.0" height="35.0"/>
+    </element>
+    <element uuid="87d8d75b-ac89-434c-aa60-c448e4640190" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>storage</seg>
+      </bo>
+      <position x="85.0" y="93.0"/>
+      <size width="109.0" height="35.0"/>
+    </element>
+    <element uuid="95e9de3f-d0ac-477c-ad03-25b9d4ee4922" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>switch</seg>
+      </bo>
+      <position x="617.0" y="38.0"/>
+      <size width="102.0" height="35.0"/>
+    </element>
+    <bo>
+      <seg>package</seg>
+      <seg>baseline</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="731.0" height="635.0"/>
+  </element>
+  <config type="package" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>package</seg>
+      <seg>baseline</seg>
+    </context>
+  </config>
+</diagram:Diagram>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="2f707ac2-431d-4d7b-afff-582df04eb852" manual="true">
+    <element uuid="13dbae79-8423-4593-83d1-7f473f80f29e" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>uc_danfoss_new_connection</seg>
+      </bo>
+    </element>
+    <element uuid="e59a50d5-aefc-4fb0-b817-f45909eb12ed" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>uc_danfoss_new_connection2</seg>
+      </bo>
+    </element>
+    <element uuid="4d4a6b29-a918-4054-8fe9-43e5c0d8aae4" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>uc_danfoss_new_connection3</seg>
+      </bo>
+    </element>
+    <element uuid="39b8ac5e-029d-4474-a290-46fb72217458" manual="true" background="#ccccff">
+      <element uuid="75c53961-9fa2-42e8-a1ab-14d13a0c97ae" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>enet</seg>
+        </bo>
+        <position x="166.0" y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>a1</seg>
+      </bo>
+      <position x="88.0" y="168.0"/>
+      <size width="212.0" height="110.0"/>
+    </element>
+    <element uuid="2e62a0fb-ddbf-4e5d-8594-fcf188a181ee" manual="true" background="#ffcccc">
+      <element uuid="5bf4363a-7b8c-44c1-89f1-cd572cf18eb2" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>display</seg>
+        </bo>
+        <position x="150.0" y="80.0"/>
+      </element>
+      <element uuid="b82109d7-f065-4384-8895-6a1f1243e9d9" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>io</seg>
+        </bo>
+        <position x="182.0" y="240.0"/>
+      </element>
+      <element uuid="e2beb218-5832-414a-b93f-0425e6809dee" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>lan</seg>
+        </bo>
+        <position y="160.0"/>
+      </element>
+      <element uuid="6520dbc1-a1a3-4af0-ab5a-01acf527ff89" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>network</seg>
+        </bo>
+        <position x="144.0" y="299.0"/>
+      </element>
+      <element uuid="a6f07e7e-08f0-4636-a07c-39af4dd877d4" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position x="155.0" y="130.0"/>
+      </element>
+      <element uuid="94d165a4-6c36-4eab-b6b0-ad59cfeed37a" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_0</seg>
+        </bo>
+        <position x="156.0" y="20.0"/>
+      </element>
+      <element uuid="1847d33a-6f9a-40e0-b37b-8d17759a6359" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_1</seg>
+        </bo>
+        <position y="210.0"/>
+      </element>
+      <element uuid="67d75aee-261b-4ea8-973d-9d8b7a4f86f9" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_2</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="9dd5605c-012a-4695-a220-748ea44bda36" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_3</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="bcef7aaa-98ad-4293-a385-95208ee42bcf" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>wifi</seg>
+        </bo>
+        <position x="167.0" y="180.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>fn1</seg>
+      </bo>
+      <position x="87.0" y="308.0"/>
+      <size width="214.0" height="361.0"/>
+    </element>
+    <element uuid="d9734139-9d95-4329-b43b-461d00603d7d" manual="true" background="#ccccff">
+      <element uuid="37a416ab-6457-4d4a-a571-2f97ffdb9b02" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>enet</seg>
+        </bo>
+        <position x="166.0" y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>s1</seg>
+      </bo>
+      <position x="88.0" y="48.0"/>
+      <size width="212.0" height="110.0"/>
+    </element>
+    <element uuid="87f164ae-61cc-4377-aa5e-8113db4deb43" manual="true" background="#ffffcc">
+      <element uuid="48f894b2-2267-49b2-bc4c-7d5ddea2dd38" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>enet_0</seg>
+        </bo>
+        <position y="210.0"/>
+      </element>
+      <element uuid="3d632cf7-34aa-4697-b3ab-7f1142902e35" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>enet_1</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <element uuid="5fee0033-d1ba-4159-a39d-0f4f781ec425" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>enet_2</seg>
+        </bo>
+        <position y="150.0"/>
+      </element>
+      <element uuid="dbf1b7c6-b574-478b-88fa-078c8c5126f2" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>enet_3</seg>
+        </bo>
+        <position y="300.0"/>
+      </element>
+      <element uuid="8587bafb-5bae-4ac8-863e-8324400575fb" manual="true" dockArea="bottom">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position x="90.0" y="367.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>sw1</seg>
+      </bo>
+      <position x="418.0" y="28.0"/>
+      <size width="209.0" height="391.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>uc.danfoss</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="669.0" height="709.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>platform::uc.danfoss</seg>
+    </context>
+  </config>
+</diagram:Diagram>

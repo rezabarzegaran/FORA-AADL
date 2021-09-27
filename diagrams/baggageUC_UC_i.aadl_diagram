@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="f3b948ae-1f8b-4b20-9d7e-16bfb95541c3" manual="true">
+    <element uuid="65820eb4-9c9f-4909-975f-b686b71f68c1" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>powerconnection1</seg>
+      </bo>
+      <bendpoints>
+        <point x="20.0" y="320.0"/>
+        <point x="20.0" y="560.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="cdeb38e3-cd13-4a94-9c90-1468cb597c8d" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>powerconnection2</seg>
+      </bo>
+      <bendpoints>
+        <point x="34.0" y="400.0"/>
+        <point x="35.0" y="504.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="ac2e87c0-283b-4ef5-b28b-785d1a5ffe0a" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>powerconnection3</seg>
+      </bo>
+      <bendpoints>
+        <point x="368.0" y="320.0"/>
+        <point x="369.0" y="560.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="cf185fed-6b8d-4ebe-a3c1-e9e420d3def8" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>powerconnection4</seg>
+      </bo>
+      <bendpoints>
+        <point x="352.0" y="400.0"/>
+        <point x="352.0" y="504.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="9591c4b7-cd8b-4604-a75a-08991163e33a" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>powerconnection5</seg>
+      </bo>
+      <bendpoints>
+        <point x="454.0" y="321.0"/>
+        <point x="454.0" y="551.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="aeb7a6e5-eb09-4504-9411-c5a868a08b87" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>powerconnection6</seg>
+      </bo>
+      <bendpoints>
+        <point x="473.0" y="401.0"/>
+        <point x="473.0" y="501.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="1530cded-90b4-4811-bfb0-3a48c4b653da" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>powerconnection7</seg>
+      </bo>
+      <bendpoints>
+        <point x="813.0" y="401.0"/>
+        <point x="813.0" y="501.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="16403a2b-bd08-4b7c-adbe-21c4b6ee30c6" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>powerconnection8</seg>
+      </bo>
+      <bendpoints>
+        <point x="832.0" y="331.0"/>
+        <point x="832.0" y="551.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="ccce9482-17db-4768-bc06-69ddd53034e9" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection1</seg>
+      </bo>
+    </element>
+    <element uuid="35d6c5d5-1e33-4570-8775-2cad6d0baba2" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection10</seg>
+      </bo>
+      <bendpoints>
+        <point x="271.0" y="1001.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="40628f17-5555-4f9b-b1f2-3c3c4fc82828" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection11</seg>
+      </bo>
+      <bendpoints>
+        <point x="301.0" y="921.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="a3fb90ca-44e4-4706-b2f9-cb15da1b85b2" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection12</seg>
+      </bo>
+      <bendpoints>
+        <point x="393.0" y="1001.0"/>
+        <point x="393.0" y="906.0"/>
+        <point x="393.0" y="769.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="cff2c627-e34d-4b07-ad8a-bde98bef121c" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection13</seg>
+      </bo>
+      <bendpoints>
+        <point x="424.0" y="920.0"/>
+        <point x="424.0" y="766.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="59f87429-72c3-4118-85df-8c274e8577e3" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection14</seg>
+      </bo>
+      <bendpoints>
+        <point x="518.0" y="1000.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="179843d8-738a-4bd2-928d-305c047fdec4" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection15</seg>
+      </bo>
+      <bendpoints>
+        <point x="562.0" y="920.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="fd7f1b2d-a5ba-43e8-9d20-7fb0eca323d9" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection16</seg>
+      </bo>
+      <bendpoints>
+        <point x="680.0" y="1000.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="000e1a6a-f07d-47bb-92fb-d43c945b2aa0" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection17</seg>
+      </bo>
+      <bendpoints>
+        <point x="778.0" y="920.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="ff5076df-8876-4250-8f87-06b348df8696" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection18</seg>
+      </bo>
+      <bendpoints>
+        <point x="828.0" y="1000.0"/>
+        <point x="828.0" y="766.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="a07c3fd5-6a46-4790-b060-4b76c793494e" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection19</seg>
+      </bo>
+      <bendpoints>
+        <point x="876.0" y="922.0"/>
+        <point x="876.0" y="768.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="76c3ce50-8c82-46b8-86a4-a837c833e476" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection2</seg>
+      </bo>
+    </element>
+    <element uuid="bae45074-eb39-4974-95bd-00cb63a6f0fe" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection20</seg>
+      </bo>
+      <bendpoints>
+        <point x="980.0" y="1000.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="b2a67499-ca4e-4b92-b77d-34e58175e257" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection21</seg>
+      </bo>
+      <bendpoints>
+        <point x="1070.0" y="920.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="f7a6b957-6c6c-4c23-80cf-7ff092756167" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection22</seg>
+      </bo>
+      <bendpoints>
+        <point x="1120.0" y="1000.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="c5f4ec51-6354-41f6-90ca-e207d74b6c82" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection23</seg>
+      </bo>
+      <bendpoints>
+        <point x="1220.0" y="920.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="97995f25-3eed-4bc7-8f17-ebf19eed6262" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection3</seg>
+      </bo>
+    </element>
+    <element uuid="bee0af4d-655c-41c3-93ed-eed1fc2d58dd" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection4</seg>
+      </bo>
+    </element>
+    <element uuid="530be0d4-ab35-48e2-8c36-c03d896aa51e" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection5</seg>
+      </bo>
+    </element>
+    <element uuid="c82ebd9d-c65f-4cbf-80be-846fd0feb424" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection6</seg>
+      </bo>
+      <bendpoints>
+        <point x="-44.0" y="996.0"/>
+        <point x="-44.0" y="681.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="e84b115d-e45e-4176-aac8-ddc0390715e7" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection7</seg>
+      </bo>
+      <bendpoints>
+        <point x="23.0" y="921.0"/>
+        <point x="23.0" y="787.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="bb856261-9857-4098-9b32-647446ff1670" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection8</seg>
+      </bo>
+      <bendpoints>
+        <point x="141.0" y="1001.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="3372160d-d7e6-4a00-ae42-4645c0a93a0f" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>tsnconnection9</seg>
+      </bo>
+      <bendpoints>
+        <point x="171.0" y="921.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="c5731930-15e5-42f3-b2c3-eeca127467eb" manual="true" background="#e0e0e0" fontSize="20.0">
+      <element uuid="331acf90-02d6-4119-8543-eeb108742c62" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="52.0" y="25.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>a1</seg>
+      </bo>
+      <position x="1100.0" y="795.0"/>
+      <size width="72.0" height="54.0"/>
+    </element>
+    <element uuid="78ee0997-05a6-415b-a955-0482f8b07253" manual="true" background="#e0e0e0" fontSize="20.0">
+      <element uuid="769dbc1b-951a-4b63-a51d-5e5b1cc01be4" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="52.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>a2</seg>
+      </bo>
+      <position x="1250.0" y="710.0"/>
+      <size width="72.0" height="60.0"/>
+    </element>
+    <element uuid="60ae77bd-adfd-4466-85ca-f5c88fc774d2" manual="true" background="#ccccff" fontSize="20.0">
+      <element uuid="197bb66e-bc0d-4f13-9cb2-37866cc70295" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="40.0" y="90.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>cloud</seg>
+      </bo>
+      <position x="1090.0" y="320.0"/>
+      <size width="211.0" height="110.0"/>
+    </element>
+    <element uuid="5a8bf32c-799f-4d8b-aa92-9932008f50d6" manual="true" background="#ccffcc" fontSize="20.0">
+      <element uuid="917cf05e-f95c-4c59-bfad-5ad6f26e9e34" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>m1</seg>
+      </bo>
+      <position x="160.0" y="110.0"/>
+      <size width="81.0" height="60.0"/>
+    </element>
+    <element uuid="bc4e8ffc-ebb3-4398-a3f7-4bb4e5b2fdee" manual="true" background="#ccffcc" fontSize="20.0">
+      <element uuid="def2b5e0-10ee-427b-be25-0911ef24914e" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>m2</seg>
+      </bo>
+      <position x="160.0" y="190.0"/>
+      <size width="81.0" height="60.0"/>
+    </element>
+    <element uuid="687a0cb3-eb3e-429b-92c9-2a08ae7a5eb6" manual="true" background="#ccffcc" fontSize="20.0" primaryLabelVisible="true">
+      <element uuid="55250cff-7078-49fe-9817-bf2968f08bfa" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position x="61.0" y="29.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>m3</seg>
+      </bo>
+      <position x="373.0" y="110.0"/>
+      <size width="81.0" height="60.0"/>
+    </element>
+    <element uuid="679a93bb-2f43-4002-a090-c8986d76be41" manual="true" background="#ccffcc" fontSize="20.0">
+      <element uuid="69d8a943-ec8a-43a6-a8bd-4a4ebc720d27" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position x="61.0" y="29.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>m4</seg>
+      </bo>
+      <position x="368.0" y="190.0"/>
+      <size width="81.0" height="60.0"/>
+    </element>
+    <element uuid="93a9a5c5-4a46-45cd-87a3-4e646501fed9" manual="true" background="#ccffcc" fontSize="20.0">
+      <element uuid="8ab0dc0c-4705-4932-a8cf-7a0ce672f173" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>m5</seg>
+      </bo>
+      <position x="598.0" y="110.0"/>
+      <size width="82.0" height="60.0"/>
+    </element>
+    <element uuid="21de59ee-1d09-4838-8b9a-52fb0a1cac43" manual="true" background="#ccffcc" fontSize="20.0">
+      <element uuid="1f6b4d3b-9e0c-4054-9bac-9b47bdffa3af" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>m6</seg>
+      </bo>
+      <position x="599.0" y="190.0"/>
+      <size width="82.0" height="60.0"/>
+    </element>
+    <element uuid="a3037ff9-b4a2-418e-9700-6cc052576985" manual="true" background="#ccffcc" fontSize="20.0">
+      <element uuid="bb83e7d3-78b4-45aa-81fd-adaf141b8769" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position x="62.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>m7</seg>
+      </bo>
+      <position x="825.0" y="190.0"/>
+      <size width="82.0" height="60.0"/>
+    </element>
+    <element uuid="437318e4-df32-4b09-bb57-45c23be6395e" manual="true" background="#ccffcc" fontSize="20.0">
+      <element uuid="6775c083-dd67-4d80-834d-739abb3ae0c7" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position x="60.0" y="31.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>m8</seg>
+      </bo>
+      <position x="825.0" y="119.0"/>
+      <size width="80.0" height="60.0"/>
+    </element>
+    <element uuid="67993200-ee80-4100-8e33-03c6c4826c54" manual="true" background="#ffffcc" fontSize="20.0">
+      <element uuid="535222a0-36a1-4654-9b55-374a825a4d70" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power1</seg>
+        </bo>
+        <position y="100.0"/>
+      </element>
+      <element uuid="0c01cd82-8756-4252-9d76-11a896271d17" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power2</seg>
+        </bo>
+        <position y="43.0"/>
+      </element>
+      <element uuid="c7651046-1c55-46b1-bfcd-76bf86c7e29d" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power3</seg>
+        </bo>
+        <position x="183.0" y="100.0"/>
+      </element>
+      <element uuid="e4b8788c-07c7-4499-8a29-f9c1abf6a501" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power4</seg>
+        </bo>
+        <position x="183.0" y="43.0"/>
+      </element>
+      <element uuid="32e946e9-ceb2-4102-8061-ddf5bc9e7ab6" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="30.0" y="141.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>n1</seg>
+      </bo>
+      <position x="210.0" y="280.0"/>
+      <size width="203.0" height="161.0"/>
+    </element>
+    <element uuid="e1427d01-0448-4fde-9d8d-b219481d8c8f" manual="true" background="#ffffcc" fontSize="20.0">
+      <element uuid="e34e8ca5-85c7-44a5-be1f-d974dd32b14d" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power1</seg>
+        </bo>
+        <position y="90.0"/>
+      </element>
+      <element uuid="4a14f212-c26d-49a0-872a-b1a4eff93454" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power2</seg>
+        </bo>
+        <position y="40.0"/>
+      </element>
+      <element uuid="207a87f5-c64d-43a6-9a55-60007f17a6fe" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power3</seg>
+        </bo>
+        <position x="186.0" y="40.0"/>
+      </element>
+      <element uuid="2d4a9211-bbfd-48db-9781-3f1509fe10d9" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>power4</seg>
+        </bo>
+        <position x="186.0" y="90.0"/>
+      </element>
+      <element uuid="96957b94-0b76-44ea-b0e3-3b05d6342765" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="32.0" y="141.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>n2</seg>
+      </bo>
+      <position x="648.0" y="280.0"/>
+      <size width="206.0" height="161.0"/>
+    </element>
+    <element uuid="ed1cdc3f-c0bf-4641-9d6a-120626373818" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="7796dc6e-fedc-44a6-b636-a90dd6bc07c1" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p1</seg>
+      </bo>
+      <position x="80.0" y="785.0"/>
+      <size width="74.0" height="69.0"/>
+    </element>
+    <element uuid="78883e80-b872-4ffa-8d9c-c57d948d8f07" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="505c0665-1fba-42c0-a859-46aca0b8fed7" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p10</seg>
+      </bo>
+      <position x="690.0" y="710.0"/>
+      <size width="77.0" height="60.0"/>
+    </element>
+    <element uuid="3571026d-57c4-46bf-9568-84b6fffc9e80" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="fdaf10c4-e7d2-4a8f-9e37-9c5f9ba1a14b" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="56.0" y="28.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p11</seg>
+      </bo>
+      <position x="691.0" y="792.0"/>
+      <size width="76.0" height="60.0"/>
+    </element>
+    <element uuid="1f9cd3dd-e5a2-496f-a9be-b3471b075b4d" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="ad1eb82b-b225-4687-b9e5-96cfad4c5df6" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="57.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p12</seg>
+      </bo>
+      <position x="800.0" y="710.0"/>
+      <size width="77.0" height="60.0"/>
+    </element>
+    <element uuid="9d89f633-bacb-446b-943f-475eb4621586" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="1590b289-d509-4c59-b2cb-b106d43afd19" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p2</seg>
+      </bo>
+      <position x="169.0" y="710.0"/>
+      <size width="74.0" height="60.0"/>
+    </element>
+    <element uuid="0acbeb5a-40df-4981-85df-dbd17ddf7c07" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="d9bcc2c6-d64a-4b8d-b51e-525d0d494b23" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="51.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p3</seg>
+      </bo>
+      <position x="170.0" y="790.0"/>
+      <size width="71.0" height="60.0"/>
+    </element>
+    <element uuid="fbb93211-e9c8-46d5-ae4c-7c04c609f267" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="c8ff86bb-ea57-442d-ac5c-f373c6d38f2b" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p4</seg>
+      </bo>
+      <position x="288.0" y="710.0"/>
+      <size width="71.0" height="60.0"/>
+    </element>
+    <element uuid="05d937e0-a321-4c16-811d-5db1751e51a8" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="f31c979b-bae3-492f-8526-083492b11742" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="47.0" y="28.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p5</seg>
+      </bo>
+      <position x="290.0" y="792.0"/>
+      <size width="67.0" height="60.0"/>
+    </element>
+    <element uuid="d63df535-664d-470f-832a-d1b25d0a7af4" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="b6f3903d-ad60-4786-b7a8-3a5fbbfc869c" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p6</seg>
+      </bo>
+      <position x="422.0" y="710.0"/>
+      <size width="67.0" height="60.0"/>
+    </element>
+    <element uuid="4a5142fd-033c-475d-b75a-82a5c0ad601b" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="93374cdf-0976-4dd7-9659-bab9b8ebc853" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="51.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p7</seg>
+      </bo>
+      <position x="420.0" y="790.0"/>
+      <size width="71.0" height="60.0"/>
+    </element>
+    <element uuid="0c831c80-4c3e-4717-b735-a6f32cf7b92a" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="54f268f1-690a-4dc3-8fe5-30d16430e596" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p8</seg>
+      </bo>
+      <position x="550.0" y="710.0"/>
+      <size width="73.0" height="60.0"/>
+    </element>
+    <element uuid="19b707b6-65f3-4779-b1c2-339ea44dd4a8" manual="true" background="#ffff66" fontSize="20.0">
+      <element uuid="d071be5a-1b73-4c86-a36d-26111ae0b52c" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="52.0" y="28.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>p9</seg>
+      </bo>
+      <position x="550.0" y="792.0"/>
+      <size width="72.0" height="60.0"/>
+    </element>
+    <element uuid="b8eca92f-1e2c-4bf5-9433-d8c7e1ae9f2b" manual="true" background="#ffe5cc" fontSize="20.0">
+      <element uuid="524793b1-1834-4f7e-bc9d-9830e6dfccf1" manual="true" dockArea="top" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn1</seg>
+        </bo>
+        <position x="92.0"/>
+      </element>
+      <element uuid="a6532abd-cc4b-4159-9619-8053ac6e075a" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn2</seg>
+        </bo>
+        <position x="320.0" y="23.0"/>
+      </element>
+      <element uuid="152d1281-b636-4040-a7d2-16b215555b80" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn3</seg>
+        </bo>
+        <position y="22.0"/>
+      </element>
+      <element uuid="8de00ade-3bb1-471a-8692-a1e1e27ff29b" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn4</seg>
+        </bo>
+        <position y="128.0"/>
+      </element>
+      <element uuid="d08f2fba-d53a-4ca0-890a-ddf2aa227afe" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn5</seg>
+        </bo>
+        <position x="92.0" y="150.0"/>
+      </element>
+      <element uuid="ef895e68-6710-42af-9240-b7119a00b98f" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn6</seg>
+        </bo>
+        <position x="122.0" y="150.0"/>
+      </element>
+      <element uuid="12c8de74-dc93-4336-adde-3d683890ae23" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn7</seg>
+        </bo>
+        <position x="222.0" y="150.0"/>
+      </element>
+      <element uuid="c8c0a215-9f22-4be0-888e-f940e5421b8b" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn8</seg>
+        </bo>
+        <position x="252.0" y="150.0"/>
+      </element>
+      <element uuid="e05d8faa-44a6-43ec-8597-48308736f2b9" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn9</seg>
+        </bo>
+        <position x="320.0" y="110.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>sw1</seg>
+      </bo>
+      <position x="148.0" y="478.0"/>
+      <size width="340.0" height="170.0"/>
+    </element>
+    <element uuid="3de92699-910b-4e2d-9bc7-81f3011a705e" manual="true" background="#ffe5cc" fontSize="20.0">
+      <element uuid="86f671b5-6485-4d18-bc76-9c96ccdc6c48" manual="true" dockArea="top" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn1</seg>
+        </bo>
+        <position x="99.0"/>
+      </element>
+      <element uuid="cda86e10-5096-4adf-a5b2-42ce623d8223" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn2</seg>
+        </bo>
+        <position x="320.0" y="42.0"/>
+      </element>
+      <element uuid="5a979536-8a0c-4609-8cc5-1c52e69bfdde" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn3</seg>
+        </bo>
+        <position y="23.0"/>
+      </element>
+      <element uuid="18113b95-1e0d-4317-90ae-697bd4f016dc" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn4</seg>
+        </bo>
+        <position y="107.0"/>
+      </element>
+      <element uuid="216240fc-16ca-4300-95d0-63c7d6a0988d" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn5</seg>
+        </bo>
+        <position x="37.0" y="150.0"/>
+      </element>
+      <element uuid="54cd815b-a26c-46d4-a120-bb13b7e9d025" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn6</seg>
+        </bo>
+        <position x="81.0" y="150.0"/>
+      </element>
+      <element uuid="b5f02edb-9a0f-4121-b549-c4de0e4557b2" manual="true" dockArea="bottom" background="#ffffff" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn7</seg>
+        </bo>
+        <position x="199.0" y="150.0"/>
+      </element>
+      <element uuid="64f4cc6c-4f9f-463c-8cca-5e1480d1276a" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn8</seg>
+        </bo>
+        <position x="297.0" y="150.0"/>
+      </element>
+      <element uuid="b8875890-db2e-4d94-ad2b-453179b83578" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn9</seg>
+        </bo>
+        <position x="320.0" y="107.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>sw2</seg>
+      </bo>
+      <position x="581.0" y="478.0"/>
+      <size width="340.0" height="170.0"/>
+    </element>
+    <element uuid="2e9687a5-079e-44b5-ad72-a8ebd09bddd6" manual="true" background="#ffe5cc" fontSize="20.0">
+      <element uuid="985fc44d-13cc-4c26-8f45-12dc25f1a0a7" manual="true" dockArea="top" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn1</seg>
+        </bo>
+        <position x="104.0"/>
+      </element>
+      <element uuid="54fce417-48b3-4894-a9a1-d8e83d6868f5" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn2</seg>
+        </bo>
+        <position x="320.0" y="42.0"/>
+      </element>
+      <element uuid="d4b4de7f-8760-4ebd-8095-f580fcc94afd" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn3</seg>
+        </bo>
+        <position y="42.0"/>
+      </element>
+      <element uuid="2f13ec7f-1613-44c8-98fb-8fcff90060e7" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn4</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="6d409394-b727-44cb-be97-f379a4d75a37" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn5</seg>
+        </bo>
+        <position x="54.0" y="150.0"/>
+      </element>
+      <element uuid="41cdcb43-3291-462e-b859-34683ea3a15b" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn6</seg>
+        </bo>
+        <position x="144.0" y="150.0"/>
+      </element>
+      <element uuid="ee4045c8-a106-4be5-b1ab-b87dedaaa1c0" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn7</seg>
+        </bo>
+        <position x="194.0" y="150.0"/>
+      </element>
+      <element uuid="d70073b3-fcac-4bcb-9c77-686ff9dfa008" manual="true" dockArea="bottom" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn8</seg>
+        </bo>
+        <position x="294.0" y="150.0"/>
+      </element>
+      <element uuid="c75022e3-36f7-4ec8-9387-f85551a7d334" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn9</seg>
+        </bo>
+        <position x="320.0" y="110.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>sw3</seg>
+      </bo>
+      <position x="1026.0" y="478.0"/>
+      <size width="340.0" height="170.0"/>
+    </element>
+    <element uuid="a0148f37-cc94-4b53-9677-42e31a9ff05b" manual="true" background="#ffb266" fontSize="20.0" primaryLabelVisible="true">
+      <element uuid="15cab06b-b56e-468b-b381-d5a1d1ad425d" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="52.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>tr1</seg>
+      </bo>
+      <position x="803.0" y="790.0"/>
+      <size width="72.0" height="60.0"/>
+    </element>
+    <element uuid="0fea14ee-5963-4d47-b161-6453847591e9" manual="true" background="#ffb266" fontSize="20.0">
+      <element uuid="73edcada-a042-425c-b526-3cb8c03cc0c2" manual="true" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position y="32.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>tr2</seg>
+      </bo>
+      <position x="1000.0" y="710.0"/>
+      <size width="72.0" height="60.0"/>
+    </element>
+    <element uuid="d60a5fa8-a865-4a99-b8ef-b5657bf88343" manual="true" background="#ffb266" fontSize="20.0">
+      <element uuid="9a5e5357-75d6-4259-a1c4-bf0b69b223df" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="52.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>tr3</seg>
+      </bo>
+      <position x="1000.0" y="790.0"/>
+      <size width="72.0" height="60.0"/>
+    </element>
+    <element uuid="7aadc433-fd51-43d1-b2a3-0596291fd8e3" manual="true" background="#ffb266" fontSize="20.0">
+      <element uuid="e11431da-8a5a-4379-847a-a0e4c9b856ff" manual="true" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn</seg>
+        </bo>
+        <position x="52.0" y="30.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>tr4</seg>
+      </bo>
+      <position x="1100.0" y="710.0"/>
+      <size width="72.0" height="60.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>uc.i</seg>
+    </bo>
+    <position x="-110.0" y="170.0"/>
+    <size width="1411.0" height="900.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>baggageuc::uc.i</seg>
+    </context>
+  </config>
+</diagram:Diagram>

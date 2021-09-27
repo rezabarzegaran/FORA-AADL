@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="9c671f68-af49-4976-9aa8-e380dcc1280c" manual="true" background="#ffe5cc" primaryLabelVisible="false">
+    <element uuid="ce1ed12f-d292-4aab-b0c9-c306dfa3006c" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>interface</seg>
+      </bo>
+      <position x="138.0" y="575.0"/>
+    </element>
+    <element uuid="b3c67a73-9924-4a1b-acac-f27bfb262e89" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>link</seg>
+      </bo>
+      <position x="418.0" y="575.0"/>
+    </element>
+    <element uuid="2b860682-4606-4beb-be2f-70c1e5f8b7ea" manual="true">
+      <element uuid="38664a50-2e7c-4075-ac03-655d57111306" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>gateway</seg>
+        </bo>
+        <position x="10.0" y="30.0"/>
+        <size width="253.0" height="31.0"/>
+      </element>
+      <element uuid="ca67bf3f-0948-48d0-be31-3c083962438b" manual="true" background="#ffffcc" fontSize="8.0">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>localresourceschedulerintrapartition</seg>
+        </bo>
+        <position x="10.0" y="270.0"/>
+        <size width="253.0" height="35.0"/>
+      </element>
+      <element uuid="00bf929f-984c-4227-a429-6f46e8387bce" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>nodediscovery</seg>
+        </bo>
+        <position x="10.0" y="120.0"/>
+        <size width="253.0" height="35.0"/>
+      </element>
+      <element uuid="9b6dd5db-e897-4a0e-8389-954d21e66fe7" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>partitionmonitor</seg>
+        </bo>
+        <position x="10.0" y="170.0"/>
+        <size width="253.0" height="35.0"/>
+      </element>
+      <element uuid="847dabe4-0fa1-41cc-a2af-ff272b4e578b" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>resourcemanagement</seg>
+        </bo>
+        <position x="10.0" y="220.0"/>
+        <size width="253.0" height="35.0"/>
+      </element>
+      <element uuid="1225af91-00cf-4cc8-847e-26a77e2269c0" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>taskmonitor</seg>
+        </bo>
+        <position x="10.0" y="70.0"/>
+        <size width="253.0" height="35.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>appsupport</seg>
+      </bo>
+      <position x="313.0" y="38.0"/>
+      <size width="271.0" height="351.0"/>
+    </element>
+    <element uuid="02ebdc56-553b-4ef2-b4c6-8f2d337a29e1" manual="true">
+      <element uuid="befa726d-b146-4afd-8bcb-f80e66c62088" manual="true" background="#ffffcc">
+        <element uuid="2e2fcc17-2f4c-4ae9-a3a8-b109667bdfd3" manual="true" fontSize="8.0">
+          <bo>
+            <seg>subcomponent</seg>
+            <seg>schedulingconfiguration</seg>
+          </bo>
+          <position x="12.0" y="80.0"/>
+          <size width="167.0" height="35.0"/>
+        </element>
+        <element uuid="ca56c643-11f6-470f-8438-1c1664d84ddd" manual="true" fontSize="8.0">
+          <bo>
+            <seg>subcomponent</seg>
+            <seg>tsngclgonfiguration</seg>
+          </bo>
+          <position x="12.0" y="38.0"/>
+          <size width="167.0" height="35.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>controlconfiguration</seg>
+        </bo>
+        <position x="10.0" y="30.0"/>
+        <size width="191.0" height="131.0"/>
+      </element>
+      <element uuid="2be54a57-1dcb-480f-bb2d-7b45a09c42e6" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>safetyconfiguration</seg>
+        </bo>
+        <position x="220.0" y="30.0"/>
+        <size width="154.0" height="53.0"/>
+      </element>
+      <element uuid="32bfb105-5de8-49ec-95c0-38bbb4267b53" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>securityconfiguration</seg>
+        </bo>
+        <position x="390.0" y="30.0"/>
+        <size width="168.0" height="53.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>nodeconfiguration</seg>
+      </bo>
+      <position x="10.0" y="398.0"/>
+      <size width="574.0" height="171.0"/>
+    </element>
+    <element uuid="d5c22851-8618-48ac-a913-d30a7f3e8160" manual="true">
+      <element uuid="34b518fc-5175-4b99-a227-a006dfcdf8ba" manual="true" background="#ffffcc">
+        <element uuid="57a29c00-6229-4da6-9fb0-f01174b09ead" manual="true">
+          <bo>
+            <seg>subcomponent</seg>
+            <seg>coremonitor</seg>
+          </bo>
+          <position x="12.0" y="50.0"/>
+          <size width="252.0" height="35.0"/>
+        </element>
+        <element uuid="267f7616-d2df-479c-84ee-4a446742df8c" manual="true">
+          <bo>
+            <seg>subcomponent</seg>
+            <seg>localresourcemanagement</seg>
+          </bo>
+          <position x="12.0" y="100.0"/>
+          <size width="252.0" height="35.0"/>
+        </element>
+        <element uuid="e406e910-03e9-423f-a23e-52f61d4e8483" manual="true" fontSize="8.0">
+          <bo>
+            <seg>subcomponent</seg>
+            <seg>localresourceschedulerinterpartition</seg>
+          </bo>
+          <position x="10.0" y="150.0"/>
+          <size width="254.0" height="41.0"/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>partitionmanagement</seg>
+        </bo>
+        <position x="10.0" y="110.0"/>
+        <size width="271.0" height="201.0"/>
+      </element>
+      <element uuid="906798d7-935e-4429-aeac-29a2fbfada53" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>safetymanagement</seg>
+        </bo>
+        <position x="10.0" y="30.0"/>
+        <size width="271.0" height="35.0"/>
+      </element>
+      <element uuid="d3fd049f-8dbf-4b4d-bbd4-9dc12edb9d77" manual="true" background="#ffffcc">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>securitymanagement</seg>
+        </bo>
+        <position x="10.0" y="70.0"/>
+        <size width="271.0" height="35.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>nodemanagement</seg>
+      </bo>
+      <position x="10.0" y="38.0"/>
+      <size width="291.0" height="351.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>privilegedpartition.i</seg>
+    </bo>
+    <position x="20.0" y="12.0"/>
+    <size width="601.0" height="599.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>fora::software::privilegedpartition.i</seg>
+    </context>
+  </config>
+</diagram:Diagram>

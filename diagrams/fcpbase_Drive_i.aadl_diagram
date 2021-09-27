@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="405a9dc6-ce75-4271-9c7a-2a448bff9ab6" manual="true" background="#ffe5cc">
+    <element uuid="b55fce7e-33aa-4c33-a6a2-ad71e9d10300" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_hypervisorbased_new_connection</seg>
+      </bo>
+      <bendpoints>
+        <point x="272.0" y="502.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="b7b24d6c-ded0-498f-b143-88779ef2e7ba" manual="true">
+      <element uuid="82003caa-6699-4c02-8390-7915632587d8" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_hypervisorbased_new_connection10</seg>
+      </bo>
+    </element>
+    <element uuid="e575f011-2c32-4389-947f-da6cc4135f4b" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_hypervisorbased_new_connection11</seg>
+      </bo>
+      <bendpoints>
+        <point x="251.0" y="549.0"/>
+        <point x="251.0" y="502.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="f6bead29-f121-4570-800d-0fccbdcae824" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_hypervisorbased_new_connection2</seg>
+      </bo>
+      <bendpoints>
+        <point x="212.0" y="352.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="e047217d-b092-496c-824d-e9cdbfdc7ec1" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_hypervisorbased_new_connection3</seg>
+      </bo>
+    </element>
+    <element uuid="93a1d075-3691-460a-b05e-5d24a997cf9f" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>fognode_hypervisorbased_new_connection9</seg>
+      </bo>
+    </element>
+    <element uuid="b435f004-a403-46b5-bd96-72ac88a6f0f7" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>sinkpower</seg>
+      </bo>
+      <position x="50.0" y="577.0"/>
+    </element>
+    <element uuid="bd44ec2a-aea1-4a7e-8eb5-512c4900e33a" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>sourcepower</seg>
+      </bo>
+      <position x="160.0" y="577.0"/>
+    </element>
+    <element uuid="602a6ce8-78f7-440c-bb12-21d003d0c348" manual="true" dockArea="bottom">
+      <bo>
+        <seg>feature</seg>
+        <seg>tsn</seg>
+      </bo>
+      <position x="473.0" y="577.0"/>
+    </element>
+    <element uuid="d39bca8e-69ea-4f08-902d-93320fc1c2fd" manual="true">
+      <element uuid="2394af79-6ca2-4e9b-a51e-6c209491e450" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>interface</seg>
+        </bo>
+        <position y="30.0"/>
+      </element>
+      <element uuid="f2a785de-2765-4a86-b287-892e577f6afe" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>io</seg>
+        </bo>
+        <position y="100.0"/>
+      </element>
+      <element uuid="20bfe4b6-4cab-4f1d-a5a4-c07184bd3416" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position y="180.0"/>
+      </element>
+      <element uuid="6d1a8a6c-f0ee-44a6-b6fd-c35223b859a4" manual="true" dockArea="bottom">
+        <bo>
+          <seg>feature</seg>
+          <seg>tsn_0</seg>
+        </bo>
+        <position x="170.0" y="236.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>foghardwareplatform</seg>
+      </bo>
+      <position x="290.0" y="280.0"/>
+      <size width="291.0" height="260.0"/>
+    </element>
+    <element uuid="dbc1e299-25fa-41ce-bdcb-5dcabc3cdcae" manual="true">
+      <element uuid="1efa5e17-b916-4081-bbd7-300cc48318e4" manual="true" dockArea="bottom">
+        <bo>
+          <seg>feature</seg>
+          <seg>interface</seg>
+        </bo>
+        <position x="110.0" y="187.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>fogsoftwareplatform</seg>
+      </bo>
+      <position x="20.0" y="40.0"/>
+      <size width="561.0" height="211.0"/>
+    </element>
+    <element uuid="7dbb12f0-a1d9-47d9-b5f2-8bceb48a3aff" manual="true">
+      <element uuid="73b13cdf-1dee-412d-8afa-ef415149e59c" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>io</seg>
+        </bo>
+        <position x="169.0" y="10.0"/>
+      </element>
+      <element uuid="b3d3b253-9310-4dd9-a29d-b87a74210e32" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>power</seg>
+        </bo>
+        <position x="142.0" y="90.0"/>
+      </element>
+      <element uuid="f2ec1fbc-4d1d-4e17-82bd-3a2f05cc998b" manual="true" dockArea="bottom">
+        <bo>
+          <seg>feature</seg>
+          <seg>sinkpower</seg>
+        </bo>
+        <position x="30.0" y="146.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>powermodule</seg>
+      </bo>
+      <position x="20.0" y="370.0"/>
+      <size width="201.0" height="170.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>drive.i</seg>
+    </bo>
+    <position y="10.0"/>
+    <size width="601.0" height="601.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>fcpbase::drive.i</seg>
+    </context>
+  </config>
+</diagram:Diagram>
